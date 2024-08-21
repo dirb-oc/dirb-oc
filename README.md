@@ -1,4 +1,4 @@
-🐦I am DIRB🐦
+🐦I am Dirb🐦
 
 ## 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend
 
