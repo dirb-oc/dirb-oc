@@ -1,6 +1,6 @@
-🐦I am Dirb🐦
+##🐦I am Dirb🐦
 
-## 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend
+# 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend
 
 Aprendiz en el desarrollo web y entusiasta Backend, con deseos de mejorar mi camino como programador.
 Desarrollador de dia | Jugador de Noche
