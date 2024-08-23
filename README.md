@@ -37,10 +37,10 @@ Desarrollador de dia | Jugador de Noche
 </a>
 </p>
 
-<p align="center">
+<p align="inline-block">
 <a href="https://github.com/dirb-oc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dirb-oc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dirb-oc&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dirb-oc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dirb-oc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 ## 🛠️ Proyectos destacados
