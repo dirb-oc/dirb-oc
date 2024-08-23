@@ -13,6 +13,14 @@ Desarrollador de dia | Jugador de Noche
 - **Control de versiones:** Git, GitHub
 - **Otros:** API REST (Testing y Docker en Proceso)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Java](https://img.shields.io/badge/Java-8%2B-red)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-gray)
+
 ## 🌱 Aprendiendo
 
 - Arquitectura de microservicios
@@ -22,9 +30,11 @@ Desarrollador de dia | Jugador de Noche
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dirb-oc&show_icons=true&theme=radical)
+<a href="https://github.com/dirb-oc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dirb-oc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dirb-oc&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-Principiante
 
 ## 🛠️ Proyectos destacados
 
@@ -32,8 +42,9 @@ Principiante
 - **Calculadora de Interes compuesto, Javascript
 
 ## 📫 Contáctame
+Si tienes alguna pregunta, propuesta de colaboración o simplemente deseas ponerte en contacto, no dudes en enviarme un correo electrónico.
 
-- **Correo:** dirbdeving@gmail.com
+- **Email:** [dirbdeving@gmail.com](mailto:dirbdeving@gmail.com)
 - **LinkedIn:** PRS
 - **Twitter:** 404
 
