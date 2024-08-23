@@ -30,18 +30,12 @@ Desarrollador de dia | Jugador de Noche
 
 ## 📈 Estadísticas de GitHub
 
+<p>
 <a href="https://github.com/dirb-oc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dirb-oc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dirb-oc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
-
 ## 🛠️ Proyectos destacados
 
 - **Aplicacion Django para tratamientos de notas y materias, To-do-list Mejorado, Django y Postgress
