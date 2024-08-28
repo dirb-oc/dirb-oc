@@ -1,6 +1,6 @@
 # 🐦Dirb🐦
 
-### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend
+### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Fullstack
 
 Aprendiz en el desarrollo web y entusiasta Backend, con deseos de mejorar mi camino como programador.
 Desarrollador de dia | Jugador de Noche
@@ -13,12 +13,12 @@ Desarrollador de dia | Jugador de Noche
 - **Control de versiones:** Git, GitHub
 - **Otros:** API REST (Testing y Docker en Proceso)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Java](https://img.shields.io/badge/Java-8%2B-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-green)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-![Git](https://img.shields.io/badge/Git-black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-gray)
 
 ## 🌱 Aprendiendo
@@ -37,8 +37,8 @@ Desarrollador de dia | Jugador de Noche
 
 ## 🛠️ Proyectos destacados
 
-- **Aplicacion Django para tratamientos de notas y materias, To-do-list Mejorado, Django y Postgress
-- **Calculadora de Interes compuesto, Javascript
+- Aplicacion Django para tratamientos de notas y materias, To-do-list Mejorado, Django y Postgress
+- Calculadora de Interes compuesto, Javascript
 
 ## 📫 Contáctame
 Si tienes alguna pregunta, propuesta de colaboración o simplemente deseas ponerte en contacto, no dudes en enviarme un correo electrónico.
