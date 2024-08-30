@@ -46,7 +46,3 @@ Si tienes alguna pregunta, propuesta de colaboración o simplemente deseas poner
 - **Email:** [dirbdeving@gmail.com](mailto:dirbdeving@gmail.com)
 - **LinkedIn:** PRS
 - **Twitter:** 404
-
-## 📝 Sobre mí
-
-Un año de iniciar en el mundo de desarrollo web y haber elegido el camino del Backend
