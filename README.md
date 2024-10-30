@@ -8,7 +8,7 @@ Desarrollador de dia | Jugador de Noche
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes de programación:** Python, JavaScript
-- **Frameworks:** Django
+- **Frameworks:** Django y React
 - **Bases de datos:** MySQL, PostgreSQL, (MongoDB en Proceso)
 - **Control de versiones:** Git, GitHub
 - **Otros:** API REST (Testing y Docker en Proceso)
